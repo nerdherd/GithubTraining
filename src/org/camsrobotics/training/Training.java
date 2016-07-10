@@ -6,6 +6,8 @@ public class Training {
 		// Have the program greet you by using the System.out.println("string"); command!
 		System.out.println("Hello Wesley!");
 		System.out.println("Hello Spencer!");
+		System.out.println("Hello William");
 	}
-
 }
+
+
