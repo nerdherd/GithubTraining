@@ -16,7 +16,7 @@ public class Training {
 		System.out.println("How is everyone doing");
 		System.out.println("Hello Keven");
 		System.out.println("herro my peeps!");
-		System.out.println("Hello Matthew");
+		System.out.println("Hello Matthew!");
 	}
 }
 
