@@ -20,6 +20,8 @@ public class Training {
 		System.out.println("GET TO THE CHOPPER!!");
 		System.out.println("It seems to run on some sort of electricity");
 		System.out.println("Say hello to my little Friend");
+		// why are we doing this 
+		 
 	}
 }
 
