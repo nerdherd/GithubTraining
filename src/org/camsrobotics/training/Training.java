@@ -22,6 +22,7 @@ public class Training {
 		System.out.println("How about nonce...");
 		System.out.println("Say hello to my little Friend");
 		System.out.println("good luck jessie");
+		System.out.println("Works?");
 	}
 }
 
