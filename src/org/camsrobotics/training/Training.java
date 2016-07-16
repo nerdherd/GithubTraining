@@ -19,8 +19,9 @@ public class Training {
 		System.out.println("Hello Matthew!");
 		System.out.println("GET TO THE CHOPPER!!");
 		System.out.println("It seems to run on some sort of electricity");
+		System.out.println("How about nonce...");
 		System.out.println("Say hello to my little Friend");
-		System.out.println("Finally!");
+		System.out.println("Hello");
 	}
 }
 
