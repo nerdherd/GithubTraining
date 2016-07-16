@@ -18,7 +18,8 @@ public class Training {
 		System.out.println("herro my peeps!");
 		System.out.println("Hello Matthew!");
 		System.out.println("GET TO THE CHOPPER!!");
-		System.out.println("i have no idea!");
+		System.out.println("It seems to run on some sort of electricity");
+		System.out.println("Finally!");
 	}
 }
 
